@@ -16,7 +16,7 @@ Currently, two official plugins are available:
 
 <p>To get a local copy of the project, clone the repository</p>
 
-    git clone https://github.com/Khaleeq01/React-Weather-App.git
+    git clone https://github.com/aswitha1538/Zeotap_Intern_Assignment.git
     cd React-Weather-App
 <h2>2. Install Dependencies</h2>
 
