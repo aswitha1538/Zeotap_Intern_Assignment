@@ -12,6 +12,17 @@ Currently, two official plugins are available:
 
 <h1>Installation Instructions</h1>
 
+## Project Structure
+ 
+- 'public/' ('vite.svg'): Contains static assets like images, used by the app (e.g., Vite logo).
+- 'src/' ('main.jsx', 'index.css', 'App.jsx'): Holds source code ('main.jsx' initializes the app, 'App.jsx' defines the main component, 'index.css' contains global styles).
+- 'index.html': The HTML template where React injects the app content.
+- 'package.json': Lists project dependencies and scripts for development and build processes.
+- 'vite.config.js': Vite configuration file for customizing build and development behavior.
+- 'node_modules/': Directory where npm installs all the project dependencies.
+- '.gitignore': Specifies files and directories (like 'node_modules/') to be ignored by Git.
+
+
 <h2>1. Clone the Repository</h2>
 
 <p>To get a local copy of the project, clone the repository</p>
